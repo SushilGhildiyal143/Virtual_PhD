@@ -1,0 +1,9 @@
+query = "Channel estimation techniques for underwater communication"
+max_results = 300
+start_year = 2024
+end_year = 2026
+paper_subdir = "underwater_channel_estimation"
+authors = "Rohitesh Kumar and Sushil Ghildiyal"
+affiliation = "UPES, Dehradun"
+title = "Channel Estimation Techniques for Underwater Communication: A Concise Survey and Hybrid Estimator"
+target_pages = 15

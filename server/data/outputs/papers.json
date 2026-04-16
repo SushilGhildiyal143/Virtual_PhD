@@ -1,0 +1,1496 @@
+[
+  {
+    "title": "AFDM Channel Estimation in Multi-Scale Multi-Lag Channels",
+    "pdf_url": "https://arxiv.org/pdf/2405.02660v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Communicating in the Mediumband:What it is and Why it Matters",
+    "pdf_url": "https://arxiv.org/pdf/2409.00512v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Modeling of Satellite-to-Underwater Laser Communication Links: An Analytical-Monte Carlo Hybrid Approach",
+    "pdf_url": "https://arxiv.org/pdf/2510.17811v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Generative Diffusion Models for High Dimensional Channel Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2408.10501v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "UnderwaterVLA: Dual-brain Vision-Language-Action architecture for Autonomous Underwater Navigation",
+    "pdf_url": "https://arxiv.org/pdf/2509.22441v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Neural Network based Distance Estimation for Branched Molecular Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2511.02074v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Ice-Filling: Near-Optimal Channel Estimation for Dense Array Systems",
+    "pdf_url": "https://arxiv.org/pdf/2404.06806v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2408.07692v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "eStonefish-Scenes: A Sim-to-Real Validated and Robot-Centric Event-based Optical Flow Dataset for Underwater Vehicles",
+    "pdf_url": "https://arxiv.org/pdf/2505.13309v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "SPMamba-YOLO: An Underwater Object Detection Network Based on Multi-Scale Feature Enhancement and Global Context Modeling",
+    "pdf_url": "https://arxiv.org/pdf/2602.22674v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Monte-Carlo based non-line-of-sight underwater wireless optical communication channel modeling and system performance analysis under turbulence",
+    "pdf_url": "https://arxiv.org/pdf/2501.12859v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A distributed motion planning approach to cooperative underwater acoustic source tracking",
+    "pdf_url": "https://arxiv.org/pdf/2506.07877v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Diffusion-based Surrogate Model for Time-varying Underwater Acoustic Channels",
+    "pdf_url": "https://arxiv.org/pdf/2511.18078v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "On the Zero-Error Capacity of Semantic Channels with Input and Output Memories",
+    "pdf_url": "https://arxiv.org/pdf/2407.21732v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Development of an underwater inductive coupling communication system with power carrier technology",
+    "pdf_url": "https://arxiv.org/pdf/2406.02854v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Joint Optimization of Communication Enhancement and Location Privacy Protection in RIS-Assisted Underwater Communication System",
+    "pdf_url": "https://arxiv.org/pdf/2412.00367v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Near-Field Channel Modeling for Electromagnetic Information Theory",
+    "pdf_url": "https://arxiv.org/pdf/2403.12268v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "On the Vulnerability of Underwater Magnetic Induction Communication",
+    "pdf_url": "https://arxiv.org/pdf/2505.04249v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Statistical QoS Provisioning for Underwater Magnetic Induction Communication",
+    "pdf_url": "https://arxiv.org/pdf/2502.13386v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Semantic Communication in Underwater IoT Networks for Meaning-Driven Connectivity",
+    "pdf_url": "https://arxiv.org/pdf/2601.13289v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "On the Resilience of Underwater Semantic Wireless Communications",
+    "pdf_url": "https://arxiv.org/pdf/2506.23350v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Dense Geometry Supervision for Underwater Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2504.18233v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "UKDM: Underwater keypoint detection and matching using underwater image enhancement techniques",
+    "pdf_url": "https://arxiv.org/pdf/2504.11063v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Semantic Communication based on Large Language Model for Underwater Image Transmission",
+    "pdf_url": "https://arxiv.org/pdf/2408.12616v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "One-Shot Gesture Recognition for Underwater Diver-To-Robot Communication",
+    "pdf_url": "https://arxiv.org/pdf/2503.00676v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Deep learning approaches to indoor wireless channel estimation for low-power communication",
+    "pdf_url": "https://arxiv.org/pdf/2405.12427v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Performance Analysis of Communication Signals for Localization in Underwater Sensor Networks",
+    "pdf_url": "https://arxiv.org/pdf/2506.13330v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Coding meets Sequence Design via Machine Learning for Integrated Sensing and Communications",
+    "pdf_url": "https://arxiv.org/pdf/2503.23119v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention",
+    "pdf_url": "https://arxiv.org/pdf/2411.00472v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Blind Channel Estimation for RIS-Assisted Millimeter Wave Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2508.17710v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Characterization of Implantable Intrabody Communication through Experimental Measurements",
+    "pdf_url": "https://arxiv.org/pdf/2407.01307v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Novel Approach to Dual-Channel Estimation in Integrated Sensing and Communications for 6G",
+    "pdf_url": "https://arxiv.org/pdf/2507.12221v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "UMono: Physical Model Informed Hybrid CNN-Transformer Framework for Underwater Monocular Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2407.17838v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Passive and Asynchronous Wake-up Receiver for Acoustic Underwater Communication",
+    "pdf_url": "https://arxiv.org/pdf/2405.18000v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Estimation for Double-BD-RIS-Assisted Multi-User MIMO Communication",
+    "pdf_url": "https://arxiv.org/pdf/2602.18263v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Joint Channel and Symbol Estimation for Communication Systems with Movable Antennas",
+    "pdf_url": "https://arxiv.org/pdf/2506.07183v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Underwater Object Detection Enhancement via Channel Stabilization",
+    "pdf_url": "https://arxiv.org/pdf/2408.01293v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition",
+    "pdf_url": "https://arxiv.org/pdf/2506.08974v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Physical Model-Guided Framework for Underwater Image Enhancement and Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2407.04230v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Joint Spectrum Sensing and Resource Allocation for OFDMA-based Underwater Acoustic Communications",
+    "pdf_url": "https://arxiv.org/pdf/2506.13008v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Quasi-deterministic Channel Model for Underwater Acoustic Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2501.04238v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Efficient Channel Estimation for Rotatable Antenna-Enabled Wireless Communication",
+    "pdf_url": "https://arxiv.org/pdf/2506.20158v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Deep Mismatch Channel Estimation in IRS based 6G Communication",
+    "pdf_url": "https://arxiv.org/pdf/2504.09412v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Piecewise Beam Training and Channel Estimation for RIS-Aided Near-Field Communications",
+    "pdf_url": "https://arxiv.org/pdf/2501.02985v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "An Attention-Assisted Multi-Modal Data Fusion Model for Real-Time Estimation of Underwater Sound Velocity",
+    "pdf_url": "https://arxiv.org/pdf/2502.12817v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Deep-Learning Channel Estimation for IRS-Assisted Integrated Sensing and Communication System",
+    "pdf_url": "https://arxiv.org/pdf/2402.09441v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Estimation for Holographic Communications in Hybrid Near-Far Field",
+    "pdf_url": "https://arxiv.org/pdf/2401.08149v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Little Pilot is Needed for Channel Estimation with Integrated Super-Resolution Sensing and Communication",
+    "pdf_url": "https://arxiv.org/pdf/2404.10233v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Achieving Fair-Effective Communications and Robustness in Underwater Acoustic Sensor Networks: A Semi-Cooperative Approach",
+    "pdf_url": "https://arxiv.org/pdf/2508.07578v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Power Measurement Enabled Channel Autocorrelation Matrix Estimation for IRS-Assisted Wireless Communication",
+    "pdf_url": "https://arxiv.org/pdf/2407.20252v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Vision and Causal Learning Based Channel Estimation for THz Communications",
+    "pdf_url": "https://arxiv.org/pdf/2512.04380v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Thin Flexible Acoustic Transducer with piezoelectric-actuated microdomes for Underwater Communication",
+    "pdf_url": "https://arxiv.org/pdf/2504.16212v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "RSRP Measurement Based Channel Autocorrelation Estimation for IRS-Aided Wideband Communication",
+    "pdf_url": "https://arxiv.org/pdf/2411.00374v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Hybrid Near-Far Field Channel Estimation for Holographic MIMO Communications",
+    "pdf_url": "https://arxiv.org/pdf/2407.12264v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Simulator for FANETs Using 5G Vehicle-to-Everything Communications and Named-Data Networking",
+    "pdf_url": "https://arxiv.org/pdf/2510.13823v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Estimation for 6G Near-Field Wireless Communications: A Comprehensive Survey",
+    "pdf_url": "https://arxiv.org/pdf/2507.23526v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Sequential MAP Parametric OFDM Channel Estimation for Joint Sensing and Communication",
+    "pdf_url": "https://arxiv.org/pdf/2406.08345v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning",
+    "pdf_url": "https://arxiv.org/pdf/2411.05344v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Power-Measurement-Based Channel Autocorrelation Estimation for IRS-Assisted Wideband Communications",
+    "pdf_url": "https://arxiv.org/pdf/2502.11346v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Semi-blind Channel Estimation for Massive MIMO LEO Satellite Communications",
+    "pdf_url": "https://arxiv.org/pdf/2411.13944v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Distribution Estimation under the Infinity Norm",
+    "pdf_url": "https://arxiv.org/pdf/2402.08422v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Recent Advances in Near-Field Beam Training and Channel Estimation for XL-MIMO Systems",
+    "pdf_url": "https://arxiv.org/pdf/2504.05578v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Tree-Mamba: A Tree-Aware Mamba for Underwater Monocular Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2507.07687v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Reducing Complexity of Data-Aided Channel Estimation in RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2502.20648v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Comprehensive Review of Bio-Inspired Approaches to Coordination, Communication, and System Architecture in Underwater Swarm Robotics",
+    "pdf_url": "https://arxiv.org/pdf/2601.12244v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Near-Field Channel Characterization for Mid-band ELAA Systems: Sounding, Parameter Estimation, and Modeling",
+    "pdf_url": "https://arxiv.org/pdf/2405.06159v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Estimation for Movable Antenna Aided Wideband Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2409.19346v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Estimation under Large Doppler Shifts in NOMA-Based Air-Ground Communications",
+    "pdf_url": "https://arxiv.org/pdf/2510.13563v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Performance Analysis of Underwater Optical Wireless Communication Using O-RIS and Fiber Optic Backhaul (Extended version)",
+    "pdf_url": "https://arxiv.org/pdf/2508.18915v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain",
+    "pdf_url": "https://arxiv.org/pdf/2411.13988v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Wideband Ultrasonic Acoustic Underwater Channels: Measurements and Characterization",
+    "pdf_url": "https://arxiv.org/pdf/2411.11726v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Full-Duplex UWA communication with a two-element transducer",
+    "pdf_url": "https://arxiv.org/pdf/2401.09951v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "IM-based Pilot-assisted Channel Estimation for FTN Signaling HF Communications",
+    "pdf_url": "https://arxiv.org/pdf/2402.16618v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Robust Channel Estimation for Optical Wireless Communications Using Neural Network",
+    "pdf_url": "https://arxiv.org/pdf/2504.02134v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "FAFA: Frequency-Aware Flow-Aided Self-Supervision for Underwater Object Pose Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2409.16600v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Dual-Scale Channel Estimation in Sensing-Assisted Communication Systems: Joint Time Allocation and Beamforming Design",
+    "pdf_url": "https://arxiv.org/pdf/2411.05267v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Near or far: On determining the appropriate channel estimation strategy in cross-field communication",
+    "pdf_url": "https://arxiv.org/pdf/2406.05716v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "On the Performance of Multi-Wavelength Underwater Optical Channels in the Presence of Optical Turbulence",
+    "pdf_url": "https://arxiv.org/pdf/2512.02913v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Estimation for Downlink Communications Based on Dynamic Metasurface Antennas",
+    "pdf_url": "https://arxiv.org/pdf/2506.12639v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning with Vision Foundation Models",
+    "pdf_url": "https://arxiv.org/pdf/2507.02148v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Estimation and Beamforming Design for MF-RIS-Aided Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2501.10657v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Enhanced Channel Estimation for Flexible Intelligent Metasurface-Aided Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2603.29098v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Pilot design, channel estimation, and target detection for integrated sensing and communication with OTFS",
+    "pdf_url": "https://arxiv.org/pdf/2509.25846v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Joint Downlink-Uplink Channel Estimation for Non-Reciprocal RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2412.16301v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Human-Robot Teaming Field Deployments: A Comparison Between Verbal and Non-verbal Communication",
+    "pdf_url": "https://arxiv.org/pdf/2506.08890v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams",
+    "pdf_url": "https://arxiv.org/pdf/2506.08892v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "BlueME: Robust Underwater Robot-to-Robot Communication Using Compact Magnetoelectric Antennas",
+    "pdf_url": "https://arxiv.org/pdf/2411.09241v4",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Hybrid-Field Joint Channel and Visible Region Estimation for RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2602.06313v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "A Practical Approach to Underwater Depth and Surface Normals Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2410.02072v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Pose Estimation from Camera Images for Underwater Inspection",
+    "pdf_url": "https://arxiv.org/pdf/2407.16961v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Data Pilot-Aided Temporal Convolutional Network for Channel Estimation in IEEE 802.11p Vehicle-to-Vehicle Communications",
+    "pdf_url": "https://arxiv.org/pdf/2502.03246v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Joint Communication and Parameter Estimation in MIMO Channels",
+    "pdf_url": "https://arxiv.org/pdf/2509.26365v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Integrated Sensing and Communication with Massive MIMO: A Unified Tensor Approach for Channel and Target Parameter Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2401.01738v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "AquaScope: Reliable Underwater Image Transmission on Mobile Devices",
+    "pdf_url": "https://arxiv.org/pdf/2502.10891v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Adaptive Channel Estimation and Hybrid Beamforming for RIS aided Vehicular Communication",
+    "pdf_url": "https://arxiv.org/pdf/2603.00407v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Acoustic RIS for Massive Spatial Multiplexing: Unleashing Degrees of Freedom and Capacity in Underwater Communications",
+    "pdf_url": "https://arxiv.org/pdf/2512.16470v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2602.16915v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "WaterMono: Teacher-Guided Anomaly Masking and Enhancement Boosting for Robust Underwater Self-Supervised Monocular Depth Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2406.13344v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Robust Communication Design in RIS-Assisted THz Channels",
+    "pdf_url": "https://arxiv.org/pdf/2411.10524v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "SPADE: Sparsity Adaptive Depth Estimator for Zero-Shot, Real-Time, Monocular Depth Estimation in Underwater Environments",
+    "pdf_url": "https://arxiv.org/pdf/2510.25463v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Comprehensive Survey of Channel Estimation Techniques for OTFS in 6G and Beyond Wireless Networks",
+    "pdf_url": "https://arxiv.org/pdf/2512.13032v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Underwater target 6D State Estimation via UUV Attitude Enhance Observability",
+    "pdf_url": "https://arxiv.org/pdf/2506.13105v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Towards 250-m gigabits-per-second underwater wireless optical communication using a low-complexity ANN equalizer",
+    "pdf_url": "https://arxiv.org/pdf/2411.10674v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Channel Estimation for Full-duplex Multi-tag Ambient Backscatter Communication Systems with I/Q Imbalance",
+    "pdf_url": "https://arxiv.org/pdf/2512.12811v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "On Channel Estimation for Group-Connected Beyond Diagonal RIS Assisted Multi-User MIMO Communication",
+    "pdf_url": "https://arxiv.org/pdf/2602.20559v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Advanced Underwater Image Quality Enhancement via Hybrid Super-Resolution Convolutional Neural Networks and Multi-Scale Retinex-Based Defogging Techniques",
+    "pdf_url": "https://arxiv.org/pdf/2410.14285v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach",
+    "pdf_url": "https://arxiv.org/pdf/2602.20105v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Interpolation Techniques for Fast Channel Estimation in Ray Tracing",
+    "pdf_url": "https://arxiv.org/pdf/2601.23119v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "An Efficient and Adaptive Framework for Achieving Underwater High-performance Maintenance Networks",
+    "pdf_url": "https://arxiv.org/pdf/2508.12661v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Scintillation index analysis for multi-wavelength Gaussian beams in turbulent underwater channels",
+    "pdf_url": "https://arxiv.org/pdf/2512.00992v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Low-Complexity Channel Estimation for RIS-Assisted Multi-User Wireless Communications",
+    "pdf_url": "https://arxiv.org/pdf/2501.12773v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Integrated Communication and Bayesian Estimation of Fixed Channel States",
+    "pdf_url": "https://arxiv.org/pdf/2501.01632v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes",
+    "pdf_url": "https://arxiv.org/pdf/2509.16415v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Efficient Channel Estimation for Millimeter Wave and Terahertz Systems Enabled by Integrated Super-resolution Sensing and Communication",
+    "pdf_url": "https://arxiv.org/pdf/2407.20607v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Underwater Acoustic Signal Denoising Algorithms: A Survey of the State-of-the-art",
+    "pdf_url": "https://arxiv.org/pdf/2407.13264v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Survey: RTE Solutions for Underwater Optical Communications",
+    "pdf_url": "https://arxiv.org/pdf/2501.12855v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "LU2Net: A Lightweight Network for Real-time Underwater Image Enhancement",
+    "pdf_url": "https://arxiv.org/pdf/2406.14973v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Circuit-Based Modeling Approach for Channel Estimation in RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2506.07124v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Synchronization, Identification, and Signal Detection for Underwater Photon-Counting Communications With Input-Dependent Shot Noise",
+    "pdf_url": "https://arxiv.org/pdf/2512.16102v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Distributed MPC Formation Path Following for Acoustically Communicating Underwater Vehicles",
+    "pdf_url": "https://arxiv.org/pdf/2410.11959v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Performance Analysis of Underwater Acoustic Channel Amid Jamming by Random Jammers",
+    "pdf_url": "https://arxiv.org/pdf/2405.02885v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Mutual Coupling-Aware Channel Estimation and Beamforming for RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2410.04110v4",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Improving underwater semantic segmentation with underwater image quality attention and muti-scale aggregation attention",
+    "pdf_url": "https://arxiv.org/pdf/2503.23422v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Joint Communication and Indoor Positioning Based on Visible Light in the Presence of Dimming",
+    "pdf_url": "https://arxiv.org/pdf/2508.04570v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Underwater Human-Robot and Human-Swarm Interaction: A Review and Perspective",
+    "pdf_url": "https://arxiv.org/pdf/2406.12473v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Joint Low-Rank and Sparse Bayesian Channel Estimation for Ultra-Massive MIMO Communications",
+    "pdf_url": "https://arxiv.org/pdf/2512.04470v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Data-Driven Modulation Optimization with LMMSE Equalization for Reliability Enhancement in Underwater Acoustic Communications",
+    "pdf_url": "https://arxiv.org/pdf/2506.23557v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Adaptive Implicit-Based Deep Learning Channel Estimation for 6G Communications",
+    "pdf_url": "https://arxiv.org/pdf/2505.17421v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment",
+    "pdf_url": "https://arxiv.org/pdf/2604.04642v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Cascade IPG Observer for Underwater Robot State Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2504.15235v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications",
+    "pdf_url": "https://arxiv.org/pdf/2503.02299v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "UMI-Underwater: Learning Underwater Manipulation without Underwater Teleoperation",
+    "pdf_url": "https://arxiv.org/pdf/2603.27012v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "A Robust UWOC-assisted Multi-hop Topology for Underwater Sensor Network Nodes",
+    "pdf_url": "https://arxiv.org/pdf/2403.19180v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Design and Performance Evaluation of SEANet, a Software-defined Networking Platform for the Internet of Underwater Things",
+    "pdf_url": "https://arxiv.org/pdf/2403.01009v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Cluster-Based Statistical Channel Model for Integrated Sensing and Communication Channels",
+    "pdf_url": "https://arxiv.org/pdf/2403.00505v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset",
+    "pdf_url": "https://arxiv.org/pdf/2406.06039v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Advancing Visual Reliability: Color-Accurate Underwater Image Enhancement for Real-Time Underwater Missions",
+    "pdf_url": "https://arxiv.org/pdf/2603.16363v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Exploring Communication Technologies, Standards, and Challenges in Electrified Vehicle Charging",
+    "pdf_url": "https://arxiv.org/pdf/2403.16830v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM",
+    "pdf_url": "https://arxiv.org/pdf/2601.10814v2",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Low-Overhead Channel Estimation Framework for Beyond Diagonal Reconfigurable Intelligent Surface Assisted Multi-User MIMO Communication",
+    "pdf_url": "https://arxiv.org/pdf/2504.10911v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Covering Underwater Shadow Zones using Acoustic Reconfigurable Intelligent Surfaces",
+    "pdf_url": "https://arxiv.org/pdf/2501.02256v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Authentication by Location Tracking in Underwater Acoustic Networks",
+    "pdf_url": "https://arxiv.org/pdf/2410.03511v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Distributed Learning over Noisy Communication Networks",
+    "pdf_url": "https://arxiv.org/pdf/2601.20723v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Coupler Position Optimization and Channel Estimation for Flexible Coupler Antenna Aided Multiuser Communication",
+    "pdf_url": "https://arxiv.org/pdf/2602.11319v2",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Near-Field MMSE Channel Estimation for THz RIS-aided Communications with Electromagnetic Interference",
+    "pdf_url": "https://arxiv.org/pdf/2603.26454v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Near-Field Channel Estimation for Extremely Large-Scale Terahertz Communications",
+    "pdf_url": "https://arxiv.org/pdf/2406.05452v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Latency-Aware Generative Semantic Communications with Pre-Trained Diffusion Models",
+    "pdf_url": "https://arxiv.org/pdf/2403.17256v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "OceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework",
+    "pdf_url": "https://arxiv.org/pdf/2503.01074v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Gust Estimation and Rejection with a Disturbance Observer for Proprioceptive Underwater Soft Morphing Wings",
+    "pdf_url": "https://arxiv.org/pdf/2602.04438v2",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Leader-Follower 3D Formation for Underwater Robots",
+    "pdf_url": "https://arxiv.org/pdf/2410.23128v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Coastal Underwater Evidence Search System with Surface-Underwater Collaboration",
+    "pdf_url": "https://arxiv.org/pdf/2410.02345v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Near-Field Channel Estimation for mmWave/THz Communications with Extremely Large-Scale UPAs",
+    "pdf_url": "https://arxiv.org/pdf/2603.14437v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "State-of-the-Art Underwater Vehicles and Technologies Enabling Smart Ocean: Survey and Classifications",
+    "pdf_url": "https://arxiv.org/pdf/2412.18667v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Location-Driven Beamforming for RIS-Assisted Near-Field Communications",
+    "pdf_url": "https://arxiv.org/pdf/2406.02898v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset",
+    "pdf_url": "https://arxiv.org/pdf/2510.17585v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "AquaVLM: Improving Underwater Situation Awareness with Mobile Vision Language Models",
+    "pdf_url": "https://arxiv.org/pdf/2510.21722v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "RPLUW/M: Enabling RPL on the Internet of Underwater Things",
+    "pdf_url": "https://arxiv.org/pdf/2408.08607v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Completely Blind Channel Estimation Technique for OFDM Using Generalized Constellation Splitting and Modified Phase-Directed Algorithm",
+    "pdf_url": "https://arxiv.org/pdf/2508.06508v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Parametric Channel Estimation and Design for Active-RIS-Assisted Communications",
+    "pdf_url": "https://arxiv.org/pdf/2510.22621v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Spatio-Temporal Electromagnetic Kernel Learning for Channel Prediction",
+    "pdf_url": "https://arxiv.org/pdf/2412.17414v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Universal Modem Generation with Inherent Adaptability to Variant Underwater Acoustic Channels: a Data-Driven Perspective",
+    "pdf_url": "https://arxiv.org/pdf/2409.14022v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Deep Learning Innovations for Underwater Waste Detection: An In-Depth Analysis",
+    "pdf_url": "https://arxiv.org/pdf/2405.18299v4",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Machine Learning for the Internet of Underwater Things: From Fundamentals to Implementation",
+    "pdf_url": "https://arxiv.org/pdf/2603.07413v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Neural Channel Knowledge Map Assisted Scheduling Optimization of Active IRSs in Multi-User Systems",
+    "pdf_url": "https://arxiv.org/pdf/2508.07009v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Sparse Orthogonal Matching Pursuit-based Parameter Estimation for Integrated Sensing and Communications",
+    "pdf_url": "https://arxiv.org/pdf/2503.02293v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "GPU-centric Communication Schemes for HPC and ML Applications",
+    "pdf_url": "https://arxiv.org/pdf/2503.24230v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Reducing Label Dependency for Underwater Scene Understanding: A Survey of Datasets, Techniques and Applications",
+    "pdf_url": "https://arxiv.org/pdf/2411.11287v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Joint Superimposed Pilot-aided Channel Estimation and Data Detection for FTN Signaling over Doubly-Selective Channels",
+    "pdf_url": "https://arxiv.org/pdf/2503.17565v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Visual enhancement and 3D representation for underwater scenes: a review",
+    "pdf_url": "https://arxiv.org/pdf/2505.01869v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Multi-Modal Approach Based on Large Vision Model for Close-Range Underwater Target Localization",
+    "pdf_url": "https://arxiv.org/pdf/2401.04595v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Robust Communication and Computation using Deep Learning via Joint Uncertainty Injection",
+    "pdf_url": "https://arxiv.org/pdf/2406.03548v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "LUIEO: A Lightweight Model for Integrating Underwater Image Enhancement and Object Detection",
+    "pdf_url": "https://arxiv.org/pdf/2412.07009v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Efficient Dual-Blind Deconvolution for Joint Radar-Communication Systems Using ADMM: Enhancing Channel Estimation and Signal Recovery in 5G mmWave Networks",
+    "pdf_url": "https://arxiv.org/pdf/2409.19187v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "The Common Objects Underwater (COU) Dataset for Robust Underwater Object Detection",
+    "pdf_url": "https://arxiv.org/pdf/2502.20651v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Adversarial quantum channel discrimination",
+    "pdf_url": "https://arxiv.org/pdf/2506.03060v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Calibration Tool for Refractive Underwater Vision",
+    "pdf_url": "https://arxiv.org/pdf/2405.18018v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Unified Image-Dense Annotation Generation Model for Underwater Scenes",
+    "pdf_url": "https://arxiv.org/pdf/2503.21771v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Low-Complexity Channel Estimation in OTFS Systems with Fractional Effects",
+    "pdf_url": "https://arxiv.org/pdf/2505.06248v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Offset Pointing for Energy-efficient Reception in Underwater Optical Wireless Communication: Modeling and Performance Analysis",
+    "pdf_url": "https://arxiv.org/pdf/2603.10822v2",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "DMCE: Diffusion Model Channel Enhancer for Multi-User Semantic Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2401.16017v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Receiving RISs: Enabling Channel Estimation and Autonomous Configuration",
+    "pdf_url": "https://arxiv.org/pdf/2506.10662v3",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Alternative Channel Charting Techniques in Cellular Wireless Communications",
+    "pdf_url": "https://arxiv.org/pdf/2412.13217v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Interference-Aware K-Step Reachable Communication in Multi-Agent Reinforcement Learning",
+    "pdf_url": "https://arxiv.org/pdf/2603.15054v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Optimum Network Slicing for Ultra-reliable Low Latency Communication (URLLC) Services in Campus Networks",
+    "pdf_url": "https://arxiv.org/pdf/2503.15429v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Integrated Communication and Computing in Time-Varying mmWave Channels",
+    "pdf_url": "https://arxiv.org/pdf/2509.07482v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Covert Communications Without Pre-Sharing of Side Information and Channel Estimation Over Quasi-Static Fading Channels",
+    "pdf_url": "https://arxiv.org/pdf/2409.11755v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Digital Twin Assisted Beamforming Design for Integrated Sensing and Communication Systems",
+    "pdf_url": "https://arxiv.org/pdf/2412.07180v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Oceanship: A Large-Scale Dataset for Underwater Audio Target Recognition",
+    "pdf_url": "https://arxiv.org/pdf/2401.02099v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "TUGS: Physics-based Compact Representation of Underwater Scenes by Tensorized Gaussian",
+    "pdf_url": "https://arxiv.org/pdf/2505.08811v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A comparative analysis of preamble sequences for Galvanic Coupling Intra-Body Communications",
+    "pdf_url": "https://arxiv.org/pdf/2407.01195v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "THz-Band Near-Field RIS Channel Modeling for Linear Channel Estimation",
+    "pdf_url": "https://arxiv.org/pdf/2505.09767v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "A Semantic Communication System for Real-time 3D Reconstruction Tasks",
+    "pdf_url": "https://arxiv.org/pdf/2412.01191v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Experimental investigations of underwater and airborne noises produced by a large hovercraft in Ural River estuary",
+    "pdf_url": "https://arxiv.org/pdf/2401.14204v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Unraveling Complex Data Diversity in Underwater Acoustic Target Recognition through Convolution-based Mixture of Experts",
+    "pdf_url": "https://arxiv.org/pdf/2402.11919v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Unified Framework for Underwater Metaverse with Optical Perception",
+    "pdf_url": "https://arxiv.org/pdf/2403.05567v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Cross-field SNR Analysis and Tensor Channel Estimation for Multi-UAV Near-field Communications",
+    "pdf_url": "https://arxiv.org/pdf/2509.06967v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Conditional Generative Adversarial Networks for Channel Estimation in RIS-Assisted ISAC Systems",
+    "pdf_url": "https://arxiv.org/pdf/2502.17128v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "NAUTILUS: A Large Multimodal Model for Underwater Scene Understanding",
+    "pdf_url": "https://arxiv.org/pdf/2510.27481v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Project URSULA: Design of a Robotic Squid for Underwater Manipulation",
+    "pdf_url": "https://arxiv.org/pdf/2503.13913v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "An Open Toolkit for Underwater Field Robotics",
+    "pdf_url": "https://arxiv.org/pdf/2512.15597v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Robust orbital-angular-momentum-based underwater acoustic communication with dynamic modal decomposition method",
+    "pdf_url": "https://arxiv.org/pdf/2410.23675v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Integrated Channel Sounding and Communication: Requirements, Architecture, Challenges, and Key Technologies",
+    "pdf_url": "https://arxiv.org/pdf/2603.14912v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "A hybrid meta-heuristic approach for channel estimation in OFDM MIMO",
+    "pdf_url": "https://arxiv.org/pdf/2405.07189v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Underwater Image Enhancement via Dehazing and Color Restoration",
+    "pdf_url": "https://arxiv.org/pdf/2409.09779v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection",
+    "pdf_url": "https://arxiv.org/pdf/2512.11354v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Online Optimization for Learning to Communicate over Time-Correlated Channels",
+    "pdf_url": "https://arxiv.org/pdf/2409.00575v5",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Measuring and Minimizing Disturbance of Marine Animals to Underwater Vehicles",
+    "pdf_url": "https://arxiv.org/pdf/2506.11335v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Electromagnetic Channel Modeling and Capacity Analysis for HMIMO Communications",
+    "pdf_url": "https://arxiv.org/pdf/2502.03850v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Deep Learning for THz Channel Estimation and Beamforming Prediction via Sub-6GHz Channel",
+    "pdf_url": "https://arxiv.org/pdf/2411.15589v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Covert Quantum Communication Over Optical Channels",
+    "pdf_url": "https://arxiv.org/pdf/2401.06764v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Cooperative and Collaborative Multi-Task Semantic Communication for Distributed Sources",
+    "pdf_url": "https://arxiv.org/pdf/2411.02150v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Impact of Underwater Image Enhancement on Feature Matching",
+    "pdf_url": "https://arxiv.org/pdf/2507.21715v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Traffic Load-Aware Resource Management Strategy for Underwater Wireless Sensor Networks",
+    "pdf_url": "https://arxiv.org/pdf/2508.08555v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "IBURD: Image Blending for Underwater Robotic Detection",
+    "pdf_url": "https://arxiv.org/pdf/2502.17706v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Secure Semantic Communication over Wiretap Channel",
+    "pdf_url": "https://arxiv.org/pdf/2405.03361v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "UEOF: A Benchmark Dataset for Underwater Event-Based Optical Flow",
+    "pdf_url": "https://arxiv.org/pdf/2601.10054v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Cyclic Delay-Doppler Shift: A Simple Transmit Diversity Technique for Ultra-Reliable Communications in Doubly Selective Channels",
+    "pdf_url": "https://arxiv.org/pdf/2603.14959v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Spatio-temporal characterisation of underwater noise through semantic trajectories",
+    "pdf_url": "https://arxiv.org/pdf/2501.11131v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Estimation and Beamforming for Beyond Diagonal Reconfigurable Intelligent Surfaces",
+    "pdf_url": "https://arxiv.org/pdf/2403.18087v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Integrated Sensing and Communication Channel Modeling: A Survey",
+    "pdf_url": "https://arxiv.org/pdf/2404.17462v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Robust and Active Visible-Light Integrated Photonics on Thin-Film Lithium Tantalate for Underwater Optical Wireless Communications",
+    "pdf_url": "https://arxiv.org/pdf/2603.14346v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Enhancing Underwater Imaging with 4-D Light Fields: Dataset and Method",
+    "pdf_url": "https://arxiv.org/pdf/2408.17339v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "A General Sensing-assisted Channel Estimation Framework in Distributed MIMO Network",
+    "pdf_url": "https://arxiv.org/pdf/2411.15995v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting",
+    "pdf_url": "https://arxiv.org/pdf/2505.01799v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Affine Frequency Division Multiplexing for Communication and Channel Sounding: Requirements, Challenges, and Key Technologies",
+    "pdf_url": "https://arxiv.org/pdf/2509.16643v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Underwater Variable Zoom: Depth-Guided Perception Network for Underwater Image Enhancement",
+    "pdf_url": "https://arxiv.org/pdf/2404.17883v4",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Low Time Complexity Near-Field Channel and Position Estimations",
+    "pdf_url": "https://arxiv.org/pdf/2412.13447v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "MTCA: Multi-Task Channel Analysis for Wireless Communication",
+    "pdf_url": "https://arxiv.org/pdf/2502.18766v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Ariel Explores: Vision-based underwater exploration and inspection via generalist drone-level autonomy",
+    "pdf_url": "https://arxiv.org/pdf/2507.10003v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Deep-Learning-Based Channel Estimation for IRS-Assisted ISAC System",
+    "pdf_url": "https://arxiv.org/pdf/2402.09439v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "STNet: Prediction of Underwater Sound Speed Profiles with An Advanced Semi-Transformer Neural Network",
+    "pdf_url": "https://arxiv.org/pdf/2504.17912v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Fully Distributed Cooperative Multi-agent Underwater Obstacle Avoidance",
+    "pdf_url": "https://arxiv.org/pdf/2403.10759v3",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Downlink Channel Estimation for mmWave Systems with Impulsive Interference",
+    "pdf_url": "https://arxiv.org/pdf/2511.02291v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Grid impedance estimation based Kalman Filter",
+    "pdf_url": "https://arxiv.org/pdf/2507.17325v4",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Channel Estimation and Data Detection in DS-Spread Channels: A Unified Framework, Novel Algorithms, and Waveform Comparison",
+    "pdf_url": "https://arxiv.org/pdf/2508.21373v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Iterative Sparse Asymptotic Minimum Variance Based Channel Estimation in Fluid Antenna System",
+    "pdf_url": "https://arxiv.org/pdf/2507.05625v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Enhancing Underwater Images via Adaptive Semantic-aware Codebook Learning",
+    "pdf_url": "https://arxiv.org/pdf/2602.10586v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Gaussian Splashing: Direct Volumetric Rendering Underwater",
+    "pdf_url": "https://arxiv.org/pdf/2411.19588v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Robust Deep Joint Source Channel Coding for Task-Oriented Semantic Communications",
+    "pdf_url": "https://arxiv.org/pdf/2503.12907v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Belief Information based Deep Channel Estimation for Massive MIMO Systems",
+    "pdf_url": "https://arxiv.org/pdf/2407.07744v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "RUSSO: Robust Underwater SLAM with Sonar Optimization against Visual Degradation",
+    "pdf_url": "https://arxiv.org/pdf/2503.01434v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "Semi-Blind Channel Estimation for Beyond Diagonal RIS",
+    "pdf_url": "https://arxiv.org/pdf/2412.02824v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Tailoring Generative AI Chatbots for Multiethnic Communities in Disaster Preparedness Communication: Extending the CASA Paradigm",
+    "pdf_url": "https://arxiv.org/pdf/2406.08411v2",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Deep Learning Surrogate for Fast CIR Prediction in Reactive Molecular Diffusion Advection Channels",
+    "pdf_url": "https://arxiv.org/pdf/2512.18071v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "DUViN: Diffusion-Based Underwater Visual Navigation via Knowledge-Transferred Depth Features",
+    "pdf_url": "https://arxiv.org/pdf/2509.02983v1",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "DM-SBL: Channel Estimation under Structured Interference",
+    "pdf_url": "https://arxiv.org/pdf/2412.05582v1",
+    "source": "arxiv",
+    "year": 2024
+  },
+  {
+    "title": "Reinforcement Learning for Secrecy Optimization in Underwater Energy Harvesting Relay Network",
+    "pdf_url": "https://arxiv.org/pdf/2603.06046v1",
+    "source": "arxiv",
+    "year": 2026
+  },
+  {
+    "title": "Satellite-based communication for phase-matching measurement-device-independent quantum key distribution",
+    "pdf_url": "https://arxiv.org/pdf/2501.05829v2",
+    "source": "arxiv",
+    "year": 2025
+  },
+  {
+    "title": "AI-based Environment-Aware XL-MIMO Channel Estimation with Location-Specific Prior Knowledge Enabled by CKM",
+    "pdf_url": "https://arxiv.org/pdf/2507.06066v1",
+    "source": "arxiv",
+    "year": 2025
+  }
+]

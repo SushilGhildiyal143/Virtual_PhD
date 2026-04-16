@@ -1,0 +1,8 @@
+Research Gaps (fallback mode):
+1. Scarcity of large, balanced non-parallel corpora for Indian multilingual accents in English.
+2. Weak speaker-identity preservation under strong accent normalization.
+3. Limited evaluation on code-switching and spontaneous conversational speech.
+4. Poor robustness to microphone/channel shift and background noise.
+5. Insufficient fairness auditing across gender, age, and regional L1 groups.
+6. Lack of deployment-time controls for user-adjustable accent strength.
+7. Limited integration with downstream ASR/voice-agent improvements.

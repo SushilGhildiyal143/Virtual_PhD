@@ -1,0 +1,9 @@
+{
+  "servers": [
+    {
+      "name": "research-agent",
+      "command": "python",
+      "args": ["server/mcp_server.py"]
+    }
+  ]
+}

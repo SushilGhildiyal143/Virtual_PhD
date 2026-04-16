@@ -1,0 +1,10 @@
+fastmcp
+arxiv
+scholarly
+semanticscholar
+requests
+pymupdf
+python-docx
+tqdm
+beautifulsoup4
+openai
